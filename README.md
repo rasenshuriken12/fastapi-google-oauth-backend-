@@ -1,13 +1,14 @@
 # fastapi-google-oauth-backend-
 
-## <div align="center"> 🔗 Demo Video Link: [Food Ordering Platform]() </div>
-
 # 💡 Objective:
 You are tasked with building a FastAPI-based backend for a food ordering platform. This
 backend must support Google OAuth login, and maintain data about customers, payments,
 orders, and restaurants. The system should ensure orders can only be placed after a
 successful payment and should be able to generate complex analytical reports such as
 earnings by food type or location.
+
+
+## <div align="center"> 🔗 Demo Video Link: [Food Ordering Platform]() </div>
 
 # 🧪 Tasks
 📌 A. DB Schema Creation
