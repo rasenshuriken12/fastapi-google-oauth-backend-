@@ -12,6 +12,7 @@ This project is a FastAPI-based backend for a food ordering platform. It include
 
 ## Project Structure
 
+```bash
 /food_ordering_project
 ├── /app                  # Main application source code
 ├── /frontend
@@ -23,6 +24,7 @@ This project is a FastAPI-based backend for a food ordering platform. It include
 ├── alembic.ini           # Alembic configuration
 ├── requirements.txt      # Python dependencies
 └── sql_schema.sql        # Raw SQL schema for reference
+```
 
 ## Setup and Installation
 
